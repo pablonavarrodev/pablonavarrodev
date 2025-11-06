@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Pablo Navarro García**
+# 👋 ¡Hola! Soy **Pablo Navarro**
 
 Soy un desarrollador orientado a resultados, con especial interés en los entornos **backend Java con Spring Boot** y **frontend moderno con React**.  
 
@@ -44,8 +44,7 @@ Soy un desarrollador orientado a resultados, con especial interés en los entorn
 
 ## 🌐 Contacto
 
-📧 **Email:** pablonavarrodev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pablonavarrodev](https://www.linkedin.com/in/pablonavarrodev)  
+📧 **Email:** pablo.ng.dev@gmail.com
 💾 **GitHub:** [github.com/pablonavarrodev](https://github.com/pablonavarrodev)
 
 ---
