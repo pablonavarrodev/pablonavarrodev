@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Pablo Navarro**
 
 Soy un desarrollador orientado a resultados, con especial interés en los entornos **backend Java con Spring Boot** y **frontend moderno con React**.  
-
+ 
 ---
 
 ## ⚡ Proyectos
@@ -17,7 +17,7 @@ Soy un desarrollador orientado a resultados, con especial interés en los entorn
 ### 🏦 [Gestión Cajero Bancario — Simulador en Java](https://github.com/pablonavarrodev/Gestion-Cajero-Bancario)
 > Proyecto académico que replica la lógica interna de un cajero bancario.
 
-🧩 [Repositorio)](https://github.com/BitSealer/bitsealer)  
+🧩 [Repositorio](https://github.com/BitSealer/bitsealer)  
 
 ---
 
