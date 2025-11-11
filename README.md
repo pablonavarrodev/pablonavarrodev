@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Pablo Navarro**
 
-Soy un desarrollador orientado a resultados, con especial interés en los entornos **backend Java con Spring Boot** y **frontend moderno con React**.  
+Un desarrollador orientado a resultados, con especial interés en los entornos **backend Java con Spring Boot** y **frontend moderno con React**.  
  
 ---
 
