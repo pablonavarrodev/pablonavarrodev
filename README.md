@@ -14,7 +14,7 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 
 ---
 
-### 🏦 [Gestión Cajero Bancario — Simulador en Java](https://github.com/pablonavarrodev/Gestion-Cajero-Bancario)
+### 🏦 [Gestión Cajero Bancario — Simulador en Java](https://github.com/pablonavarrodev/GestionCajero)
 > Proyecto académico que replica la lógica interna de un cajero bancario.
 
 🧩 [Repositorio](https://github.com/BitSealer/bitsealer)  
