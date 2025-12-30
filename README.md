@@ -10,7 +10,7 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 > Proyecto personal y **TFG** basado en un ecosistema completo (backend, frontend y microservicio blockchain).
 
 🧩 [Repositorio principal (Hub)](https://github.com/BitSealer/bitsealer)  
-🧠 [Frontend](https://github.com/BitSealer/bitsealer-frontend) · ⚙️ [Backend](https://github.com/BitSealer/bitsealer-backend)
+⚙️ [Backend](https://github.com/BitSealer/bitsealer-backend) · 🖥️ [Frontend](https://github.com/BitSealer/bitsealer-frontend) · ⛓️ [Microservicio](https://github.com/BitSealer/bitsealer-stamper)
 
 ---
 
