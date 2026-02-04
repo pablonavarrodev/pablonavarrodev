@@ -22,7 +22,6 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 ---
 
 ## 📜 Certificados
-*(en proceso de incorporación)*  
 - ☑️ **React & Spring Boot: Creando Webapp Full Stack** - Udemy
 - ☑️ **Curso de Desarrollo con Inteligencia Artificial** - MoureDev
 
