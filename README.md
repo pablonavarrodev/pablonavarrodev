@@ -14,6 +14,13 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 
 ---
 
+### 🤖 [Lead Scorer](https://github.com/pablonavarrodev/lead-scorer)
+> FastAPI que procesa y evalúa de leads comerciales. (Próximamente sistema inteligente con LLM)
+
+🧩 [Repositorio](https://github.com/pablonavarrodev/GestionCajero)  
+
+---
+
 ### 🏦 [Gestión Cajero Bancario](https://github.com/pablonavarrodev/GestionCajero)
 > Proyecto académico que replica la lógica interna de un cajero bancario.
 
