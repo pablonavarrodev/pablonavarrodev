@@ -78,6 +78,6 @@ Pues mucho conocimiento técnico y mucha experiencia en el sector. Pero con el t
 
 ## 🔬 EXPERIMENTOS PERSONALES
 
-Estoy realizando experimentos personales en proyectos propios. Prefiero aprender construyendo aplicaciones reales, aunque sean pequeñas, en lugar de hacer ejemplos aislados sin un contexto.
+Estoy realizando experimentos personales en proyectos propios. Prefiero aprender construyendo aplicaciones reales, aunque sean pequeñas, en lugar de hacer ejemplos aislados sin un contexto.  
 Uno de estos experimentos es:
 [Lead Scorer](https://github.com/pablonavarrodev/lead-scorer)
