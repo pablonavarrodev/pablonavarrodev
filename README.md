@@ -21,16 +21,10 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 
 ---
 
-### 🏦 [Gestión Cajero Bancario](https://github.com/pablonavarrodev/GestionCajero)
-> Proyecto académico que replica la lógica interna de un cajero bancario.
+### 🏦 [Ai Weekly Planner](https://github.com/pablonavarrodev/ai-weekly-planner)
+> Aplicacion que carga una lista de tareas (JSON), las analiza con ayuda de un LLM y generar automáticamente un plan semanal estructurado
 
-🧩 [Repositorio](https://github.com/pablonavarrodev/GestionCajero)  
-
----
-
-## 📜 Certificados
-- ☑️ **React & Spring Boot: Creando Webapp Full Stack** - Udemy
-- ☑️ **Curso de Desarrollo con Inteligencia Artificial** - MoureDev
+🧩 [Repositorio](https://github.com/pablonavarrodev/ai-weekly-planner)  
 
 ---
 
