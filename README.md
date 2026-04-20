@@ -4,13 +4,20 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
  
 ---
 
-## ⚡ Proyectos
+## ⚡ Proyectos destacados
 
 ### ✨ [BitSealer — Plataforma de sellado de tiempo en Bitcoin](https://github.com/BitSealer/bitsealer)
 > Proyecto personal y **TFG** basado en un ecosistema completo (backend, frontend y microservicio blockchain).
 
 🧩 [Repositorio principal (Hub)](https://github.com/BitSealer/bitsealer)  
 ⚙️ [Backend](https://github.com/BitSealer/bitsealer-backend) · 🖥️ [Frontend](https://github.com/BitSealer/bitsealer-frontend) · ⛓️ [Microservicio](https://github.com/BitSealer/bitsealer-stamper)
+
+---
+
+### 🕸️ [Trapnet](https://github.com/pablonavarrodev/trapnet)
+> Proyecto de ciberseguridad que captura ataques reales en un honeypot (puerto ssh Cowire) y los procesa a través de un pipeline para su análisis con IA.
+
+🧩 [Repositorio](https://github.com/pablonavarrodev/trapnet)  
 
 ---
 
@@ -32,11 +39,13 @@ Un desarrollador orientado a resultados, con especial interés en los entornos *
 
 <div align="center">
 
-| Backend | Frontend | DevOps / Otros |
-|:--------:|:----------:|:---------------:|
-| Java 17 / Spring Boot | React / Vite / Tailwind | Docker / Flyway / JWT / BCrypt |
-| PostgreSQL / MySQL | HTML / JS / CSS | Testcontainers / Maven / Git |
-| API REST / JSON | Axios / Context API | IntelliJ / VSCode / Ubuntu / WSL |
+| Backend | Frontend | DevOps / Infra | AI / Data |
+|:--------:|:----------:|:---------------:|:-----------:|
+| Java 17 / Spring Boot | React / Vite / Tailwind | Docker / Docker Compose | LangChain |
+| Python / FastAPI | Axios / Context API | PostgreSQL / SQLite | OpenAI API |
+| REST APIs / JWT | HTML / JS / CSS | Flyway / Testcontainers | LLM Integration |
+| Hibernate / JPA | - | Git / GitHub Actions (CI/CD) | Prompt Engineering |
+| Security (JWT, BCrypt) | - | Linux (Ubuntu) / WSL | Data Processing (CSV/JSON) |
 
 </div>
 
