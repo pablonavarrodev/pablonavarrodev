@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Pablo Navarro**
 
-Un desarrollador orientado a resultados, con especial interés en los entornos **backend Java con Spring Boot** y **frontend moderno con React**.  
+Desarrollador interesado en backend, seguridad e inteligencia artificial. Trabajo con Java, Spring Boot, React y Python, y estoy aprendiendo a integrar agentes y flujos automatizados con herramientas como LangGraph.
  
 ---
 
