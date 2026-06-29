@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Pablo Navarro**
 
-Desarrollador interesado en backend, seguridad e inteligencia artificial. Trabajo con Java, Spring Boot, React y Python, y estoy aprendiendo a integrar agentes y flujos automatizados con herramientas como LangGraph.
+Desarrollador interesado en backend, seguridad e inteligencia artificial. Trabajo con Java, Spring Boot, React y Python, y estoy integrando agentes y flujos automatizados.
  
 ---
 
