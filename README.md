@@ -15,7 +15,7 @@ Desarrollador interesado en backend, seguridad e inteligencia artificial. Trabaj
 ---
 
 ### 🕸️ [Trapnet](https://github.com/pablonavarrodev/trapnet)
-> Proyecto de ciberseguridad que captura ataques reales en un honeypot (puerto ssh Cowire) y los procesa a través de un pipeline para su análisis con IA.
+> Proyecto de ciberseguridad que captura ataques reales en un honeypot y los procesa a través de un pipeline para su análisis con IA.
 
 🧩 [Repositorio](https://github.com/pablonavarrodev/trapnet)  
 
